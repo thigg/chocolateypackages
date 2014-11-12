@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>citavi</id>
+    <version>4.4</version>
+    <title>citavi</title>
+    <authors>Swiss Academic Software GmbH</authors>
+    <owners>FGBS</owners>
+    <licenseUrl>http://www.citavi.de/eula</licenseUrl>
+    <projectUrl>http://www.citavi.de/de/index.html</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Your reference management, knowledge organization, and
+task planning solution.	
+
+Search resources worldwide,
+Analyze and organize content,
+Save quotations and thoughts,
+Organize your knowledge and structure your work,
+Plan tasks – on your own or in a team,
+Write the perfect paper, report, article, or book
+</description>
+<iconUrl>http://citavi.com/images/special/index-logo-EN-258.png</iconUrl>
+    <summary>citavi</summary>
+    <releaseNotes />
+    <copyright />
+    <tags>citavi admin</tags>
+	<dependencies>
+        <dependency id="dotnet4.5" version="4.5.20120822" />
+    </dependencies>
+  </metadata>
+</package>
