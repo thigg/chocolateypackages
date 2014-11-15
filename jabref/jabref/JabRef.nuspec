@@ -8,7 +8,7 @@
     <owners>chocothilo</owners>
     <licenseUrl>http://sourceforge.net/directory/license:gpl/</licenseUrl>
     <projectUrl>http://sourceforge.net/projects/jabref/</projectUrl>
-    <iconUrl>http://c.fsdn.com/allura/p/jabref/icon</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/thigg/chocolateypackages/9f423233949ab6b241947f73dc643d196d514631/jabref/icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>JabRef is an open source bibliography reference manager. The native file format used by JabRef is BibTeX, the standard LaTeX bibliography format. JabRef runs on the Java VM (version 1.6 or newer), and should work equally well on Windows, Linux and Mac OS X.
 BibTeX is an application and a bibliography file format written by Oren Patashnik and Leslie Lamport for the LaTeX document preparation system. General information can be found on the official BibTeX homepage.
