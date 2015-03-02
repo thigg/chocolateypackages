@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>eclipse-standard-luna</id>
+    <version>4.4.1</version>
+    <title>Eclipse Standard IDE (Luna)</title>
+    <authors>Eclipse Foundation</authors>
+    <owners>Yoshimov</owners>
+    <licenseUrl>http://www.eclipse.org/org/documents/epl-v10.php</licenseUrl>
+    <projectUrl>http://www.eclipse.org</projectUrl>
+    <iconUrl>http://www.eclipse.org/downloads/images/classic2.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>an open source, robust, full-featured, commercial-quality, industry platform for the development of highly integrated tools and rich client applications</description>
+    <summary>an open source, robust, full-featured, commercial-quality, industry platform for the development of highly integrated tools and rich client applications</summary>
+    <releaseNotes />
+    <copyright />
+    <tags>eclipse java development luna ide</tags>
+    <dependencies>
+      <dependency id="binroot" />
+      <dependency id="7zip" />
+    </dependencies>
+  </metadata>
+</package>

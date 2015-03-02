@@ -1,0 +1,1 @@
+﻿Install-ChocolateyPackage "$linux-reader" "exe" "$silentArgs" "http://www.diskinternals.com/download/Linux_Reader.exe"  -validExitCodes $validExitCodes
