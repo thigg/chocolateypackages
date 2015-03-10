@@ -8,7 +8,7 @@
     <owners>Eclipse Foundation</owners>
     <licenseUrl>http://www.eclipse.org/org/documents/epl-v10.php</licenseUrl>
     <projectUrl>http://www.eclipse.org</projectUrl>
-    <iconUrl>http://www.eclipse.org/downloads/images/java.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/thigg/chocolateypackages/master/eclipse/eclipse-java-luna.4.4.2/eclipse-java-luna.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>The essential tools for any Java developer.</description>
     <summary>The essential tools for any Java developer, including a Java IDE, a CVS client, Git client, XML Editor, Mylyn, Maven integration and WindowBuilder</summary>
